@@ -442,13 +442,13 @@ a:hover, a:focus {
 Left Home
 ========================================================================== */
 .left-home {
-  height: 950px;
+  height: 725px;
   background-color: rgba(67, 80, 97, 0.7);
   color: #fff; }
 
 .align-middle {
   display: table;
-  height: 100%;
+  margin-top: 10px;
   width: 100%; }
 
 .wrap-info {
@@ -516,7 +516,7 @@ Right Home
 .right-home {
   background-color: #fd5f54 ;
   /* Background Color */
-  height: 950px; }
+  height: 725px; }
 
 .right-home span {
   color: #fff; }
@@ -1080,7 +1080,7 @@ Text animation
 }
 @media only screen and (min-width: 1170px) {
     .cd-intro {
-        margin: 6em auto;
+        margin: 0em auto;
     }
 }
 
