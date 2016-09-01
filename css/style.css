@@ -442,7 +442,7 @@ a:hover, a:focus {
 Left Home
 ========================================================================== */
 .left-home {
-  height: 100vh;
+  height: 950px;
   background-color: rgba(67, 80, 97, 0.7);
   color: #fff; }
 
@@ -516,7 +516,7 @@ Right Home
 .right-home {
   background-color: #fd5f54 ;
   /* Background Color */
-  height: 100vh; }
+  height: 950px; }
 
 .right-home span {
   color: #fff; }
@@ -1022,7 +1022,7 @@ New Button
 @media (max-width: 767px) {
   .contact, .about {
     overflow: auto;
-    max-height: 100vh; } }
+    max-height: 100vhF; } }
 @media (max-width: 768px) {
   .overlay-left {
     display: none !important; } }
