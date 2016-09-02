@@ -674,7 +674,8 @@ Socials Icons
 ========================================================================== */
 .socials-icons {
   text-align: center;
-  padding-top: 2em; }
+  padding-top: 2em;
+  display: none; }
 
 .socials-icons-list .icon1, .icon2, .icon3, .icon4 {
   margin: 10px;
