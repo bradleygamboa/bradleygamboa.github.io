@@ -78,7 +78,8 @@ h2, .h2 {
   font-size: 30px; }
 
 h3, .h3 {
-  font-size: 24px; }
+  font-size: 24px;
+  color: white; }
 
 h4, .h4 {
   font-size: 18px; }
@@ -91,7 +92,8 @@ h6, .h6 {
 
 p {
   font-size: 16px;
-  padding-top: 30px; }
+  padding-top: 30px;
+  color: white; }
 
 /* ==========================================================================
 Typography
@@ -829,7 +831,7 @@ About
     height: 4px;
 }
 .progress .progress-bar {
-    background-color: orange;
+    background-color: red;
     position: relative;
     border-radius: 4px;
 }
@@ -854,7 +856,7 @@ About
     position: absolute;
     pointer-events: none;
     border-color: rgba(255, 255, 255, 0);
-    border-bottom-color: orange;
+    border-bottom-color: red;
     border-width: 5px;
     margin-left: -5px;
 }
