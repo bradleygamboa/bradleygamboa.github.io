@@ -5,7 +5,9 @@
  * Version:       1.0
  */
 
-
+.test{
+    margin:0 0 0 -15px;
+}
 /* ==========================================================================
 Custom-Font
 ========================================================================== */
@@ -678,7 +680,7 @@ Right Home
 
 .cbp-fwslider {
     position: relative;
-    margin: 0 0 10px;
+    margin: 0;
     overflow: hidden;
     padding: 10px 0 30px;
 }
