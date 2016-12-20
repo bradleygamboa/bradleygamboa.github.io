@@ -333,7 +333,7 @@ Nav Overlay
 .overlay ul li a {
     display: block;
     padding: 25px 0;
-    min-width: 120px;
+    min-width: 100px;
     color: #fff;
     text-transform: uppercase;
     font-weight: 400;
