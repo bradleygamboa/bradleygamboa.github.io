@@ -778,7 +778,23 @@ a{
     text-decoration: underline;
 }
 
-a.visited{
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+}
+
+/* selected link */
+a:active {
     color: white;
 }
 
