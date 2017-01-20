@@ -773,6 +773,13 @@ Right Home
     -moz-transition: box-shadow 0.2s ease-in-out;
     transition: box-shadow 0.2s ease-in-out;
 }
+a{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
 
 a.btn {
     border: 1px solid #fff;
