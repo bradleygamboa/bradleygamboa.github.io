@@ -592,7 +592,7 @@ Left Home
 .timer,
 .about,
 .contact {
-    padding-top: 5%;
+    padding-top: 2em;
 }
 
 .line {
@@ -854,7 +854,7 @@ Socials Icons
 
 .socials-icons {
     text-align: center;
-    padding-top: 5%;
+    padding-top: 4em;
 }
 
 .socials-icons-list .icon1,
