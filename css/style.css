@@ -1395,7 +1395,7 @@ Text animation
     display: inline-block;
     position: relative;
     text-align: left;
-    font-size: 36px;
+    font-size: 30px;
 }
 
 .cd-words-wrapper b {
@@ -1404,7 +1404,7 @@ Text animation
     white-space: nowrap;
     left: 0;
     top: 0;
-    font-size: 36px;
+    font-size: 30px;
 }
 
 .cd-words-wrapper b.is-visible {
